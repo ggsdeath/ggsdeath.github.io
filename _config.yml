@@ -22,14 +22,14 @@ repository               : "ggsdeath/ggsdeath.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images / WechatIMG1202.jpg"
+  avatar           : "images / image.png"
   name             : "Qinlu Guo"
   pronouns         : # example: "she/her"  
   bio              : "Smile and death"
   location         : "Shanghai"
   employer         : "Shanghai Jiao Tong University"
   uri              : # URL
-  email            : "qinluguo@sjtu.edu.cn" 
+  email            : "guoqinlu@sjtu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
