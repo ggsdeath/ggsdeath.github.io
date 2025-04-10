@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2024-10-02-paper-title-number-1
 excerpt: 'In this paper, we introduce a benchmark to evaluate association, a core yet underexplored aspect of human intelligence. We construct adjective- and verb-based tasks using an annotation-free method and propose three association levels: single-step, synchronous, and asynchronous. Extensive zero-shot evaluations reveal that current MLLMs, including GPT-4V, perform significantly worse than humans. Our benchmark offers a new direction for advancing MLLM research.'
-date: 2024
+date: 2024-10-02
 venue: 'ICLR, 2025'
 ---
 
