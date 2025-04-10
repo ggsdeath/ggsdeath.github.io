@@ -11,9 +11,9 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Honors"
-    url: /honor/    
+  # - title: "Honors"
+  #   url: /honor/    
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
   
