@@ -7,7 +7,6 @@ excerpt: 'In this paper, we introduce a benchmark to evaluate association, a cor
 date: 2024
 venue: 'ICLR, 2025'
 paperurl: 'https://arxiv.org/abs/2410.01417'
-citation: 'Li, H., Li, N., Chen, Y., Zhu, J., Guo, Q., Lu, C., & Li, Y. (2024). The Labyrinth of Links: Navigating the Associative Maze of Multi-modal LLMs. ArXiv, abs/2410.01417.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
