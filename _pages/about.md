@@ -11,6 +11,11 @@ Hello! I am a second-year undergraduate student majoring in [Computer Science an
 
 News
 ======
+## 🗓️ Timeline
+
+- **[2025.01]**  
+  Our paper on [association ability of MLLM](https://arxiv.org/abs/2410.01417) is accepted by ICLR 2025.
+
 
 
 
