@@ -13,6 +13,4 @@ News
 ======
 
 
-Publications
-======
 
